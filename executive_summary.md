@@ -1,5 +1,5 @@
 # Executive Summary  
-**Senior Data Analyst - Case Study**  
+**Marketing Performance SQL Case Study**  
 ---
 
 ## 1. Key Findings  
